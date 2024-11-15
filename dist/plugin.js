@@ -2,6 +2,7 @@ exports.version = 1
 exports.description = "To easily make basic customizations of the look"
 exports.apiRequired = 9.6
 exports.repo = "rejetto/hfs-theme-customizer"
+exports.preview = "https://github.com/user-attachments/assets/190603e4-aec0-47ba-9a64-c4949bfac7fd"
 
 exports.config = {
     textColor: { type: 'color', helperText: "Leave empty for default color" },
